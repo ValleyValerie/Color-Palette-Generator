@@ -128,7 +128,7 @@ export default {
 .color-palette {
   display: flex;
   justify-content: space-between;
-  height: 90vh;
+  height: 87vh;
 }
 
 .color-block {
@@ -169,10 +169,10 @@ export default {
 
 .red-square-container {
   position: absolute;
-  top: 10%;
+  top: 15%;
   left: 10%;
-  width: 55vw;
-  height: 55vh; 
+  width: 50vw;
+  height: 60vh; 
   z-index: 10;
   background-color: rgb(0, 0, 0);
   background-size: cover;
