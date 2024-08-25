@@ -76,7 +76,7 @@ export default {
       img.src = imageSrc;
       img.onload = () => {
         const colorThief = new ColorThief();
-        const palette = colorThief.getPalette(img, 6);
+        const palette = colorThief.getPalette(img, 7);
         this.updateColorPalette(palette);
       };
     },
@@ -132,7 +132,7 @@ export default {
 }
 
 .color-block {
-  width: 16.67vw;
+  width: 14.29vw;
   display: flex;
   flex-direction: column;
   align-items: center;
