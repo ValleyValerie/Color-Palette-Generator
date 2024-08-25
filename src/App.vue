@@ -172,7 +172,7 @@ export default {
   top: 10%;
   left: 10%;
   width: 55vw;
-  height: 60vh; 
+  height: 55vh; 
   z-index: 10;
   background-color: rgb(0, 0, 0);
   background-size: cover;
