@@ -7,3 +7,13 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 =======
 # Color-Palette-Generator
 >>>>>>> origin/main
+>>>>>>>
+# My Project
+
+Here is a screenshot of my project:
+![Screenshot 2024-08-25 165735](https://github.com/user-attachments/assets/e09d441b-4b1e-48fe-9934-347558743f74)
+
+# The Preview
+
+Here is a the link to the preview: 
+[Preview/](https://color-palette-generator-beta.vercel.app/)
